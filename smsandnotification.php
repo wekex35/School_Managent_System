@@ -1,7 +1,7 @@
 <?php
 
 function send_notifications($message,$title,$notification_ids) {
-    $API_ACCESS_KEY = 'AAAA-asCEBI:APA91bHQuS4aB0B4AKYF3q7jDV69zR8iQIXyNBmnLNycvXdVRt9EsF-rvQkt5ZAivnm9qDf712Okmb76A8zKdc_GY8_WVYVeIyt0oI7TLqS_OeMDFZLJUsDe_FMaRlaLcD0xaQ0EuYaYgo7zjftjOpdoLJbfbRJSGQ';
+    $API_ACCESS_KEY = 'FCM Key'; //For Example AAAA-asCEBI:APA91bHQuS4aB0B4AKYF3q7jDV69zR8iQIXyNBmnLNycvXdVRt9EsF-rvQkt5ZAivnm9qDf712Okmb76A8zKdc_GY8_WVYVeIyt0oI7TLqS_OeMDFZLJUsDe_go7zjftjOpdoLJbfbRJSGQ
     $data = array(
     'title' => $title,
     'message' => $message
@@ -29,8 +29,9 @@ function send_notifications($message,$title,$notification_ids) {
 function send_sms($message,$title,$numbers) {
     
 	// Authorisation details.
-	$username = "wekex35@gmail.com";
-	$hash = "20bd88f537025ac2ffff14a44f969128370881b711fab7eb4057263cc3ec7113";
+
+	$username = "Your UserName";//User name http://api.textlocal.in
+	$hash = "Your Hash Key";// Hash key 20bd88f537025acab7eb4057263cc3ec7113
 
 	// Config variables. Consult http://api.textlocal.in/docs for more info.
 	$test = "0";
