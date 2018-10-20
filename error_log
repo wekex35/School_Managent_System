@@ -1,0 +1,25 @@
+[16-Jul-2018 06:36:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wekex/public_html/TVM2/logout.php:1) in /home/wekex/public_html/TVM2/logout.php on line 2
+[16-Jul-2018 06:37:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wekex/public_html/TVM2/logout.php:1) in /home/wekex/public_html/TVM2/logout.php on line 2
+[18-Jul-2018 04:12:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:12:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:12:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:12:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:12:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:12:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:12:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:12:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:12:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:12:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:12:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:12:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:13:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:13:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:13:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:13:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:13:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:13:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/wekex/public_html/TVM2/attendence_mysql.php on line 143
+[18-Jul-2018 04:16:33 UTC] PHP Warning:  include(send_driver.php): failed to open stream: No such file or directory in /home/wekex/public_html/TVM2/index.php on line 214
+[18-Jul-2018 04:16:33 UTC] PHP Warning:  include(): Failed opening 'send_driver.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wekex/public_html/TVM2/index.php on line 214
+[18-Jul-2018 05:26:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wekex/public_html/TVM2/logout.php:1) in /home/wekex/public_html/TVM2/logout.php on line 2
+[19-Jul-2018 10:32:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wekex/public_html/TVM2/logout.php:1) in /home/wekex/public_html/TVM2/logout.php on line 2
+[23-Jul-2018 09:12:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/wekex/public_html/TVM2/logout.php:1) in /home/wekex/public_html/TVM2/logout.php on line 2

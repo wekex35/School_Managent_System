@@ -1,0 +1,84 @@
+fieldset.scheduler-border {
+    border: solid 1px #DDD !important;
+    padding: 0 10px 10px 10px;
+    border-bottom: none;
+
+}
+
+legend.scheduler-border {
+    width: auto !important;
+    border: none;
+    font-size: 20px;
+
+}
+.coverlay {
+  z-index: 2;
+  right: 5px;
+}
+.c_spinner {
+  font-size:48px;
+}
+
+.button_right{
+  float: right;
+}
+
+#updateModal{
+  overflow-y: initial !important;
+}
+
+#updateBody{
+  max-height: calc(100vh -200px);
+  overflow-y: auto;
+}
+
+.navbar-custom {
+    background-color:#b8860b;
+    color:#ffffff;
+    border-radius:0;
+}
+
+.navbar-custom .navbar-nav > li > a {
+   
+    color:#fff;
+
+}
+
+.navbar-custom .navbar-nav > li > ul> li> a {
+    width: 100%;
+    color:#ffffe0;
+}
+
+.navbar-custom .navbar-nav > .active > a {
+    color: #ffffff;
+    background-color:transparent;
+}
+
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus,
+.navbar-custom .navbar-nav > li > ul> li> a:hover,
+.navbar-custom .navbar-nav > li > ul> li> a:focus,
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus,
+.navbar-custom .navbar-nav > .open >a {
+    text-decoration: none;
+    background-color: #daa520;
+}
+
+.navbar-custom .navbar-brand {
+    color:#eeeeee;
+}
+
+.navbar-custom .navbar-toggler-icon {
+   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  }
+
+.card-header ,.modal-header,.breadcrumb{
+  background-color: #f5deb3;
+}
+
+.navbar-custom #sidenavToggler{
+  background-color: #f5deb3;
+}
+
+
