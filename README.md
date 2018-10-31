@@ -19,7 +19,8 @@ School Management Sytem Based on PHP,Mysql and Bootstrap
 <li>	Hierarchically login System for Teaching and Official Staff.
 <li>	Time table and Result Management.
 </ul>
-
+</p>
+<p>
     <strong>Android App Features:</strong>
 <ul>
 <li>	Fees payment.
