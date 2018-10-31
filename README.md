@@ -21,7 +21,7 @@ School Management Sytem Based on PHP,Mysql and Bootstrap
 </ul>
 </p>
 <p>
-    <strong>Android App Features:</strong>
+    <strong>Android App Features:</strong> (Added Soon)
 <ul>
 <li>	Fees payment.
 <li>	Time Table.
